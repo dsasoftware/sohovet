@@ -21,7 +21,7 @@
 ##############################################################################
 
 {
-    'name': 'SOHOVet',
+    'name': 'SOHOVet master',
     'version': '1.0',
     'category': 'Productos',
     'description': """Módulo que personaliza Odoo para SOHOVet.""",
